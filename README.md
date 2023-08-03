@@ -10,7 +10,7 @@
 [See Personal Homepage](https://maram-9.github.io/personal-homepage/)
 
 <a id="technologies"></a>
-##  👩🏻‍💻 Used Technologies:
+##  👩🏻‍💻 Technologies:
 `JavaScript ES+` `React` `React Redux` `React Redux-Saga` `React Redux-Toolkit` `API` `Axios` `styled-component` `RWD` `Normalize` `Immuntabbility` `Accesability` `color-alpha`
 `Flex` `Grid` `Markdown` `Node.js` `Styled-components` `Create-react-app` `
 
