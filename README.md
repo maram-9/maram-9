@@ -4,7 +4,7 @@
 # Marzena Malka
 
 <h2>👧💻 </h1>
- My name is Marzena, and I'm an enthusiastic Frontend Developer. I love to try new skills and technologies and generally enjoy new experiences. This profile demonstrates my skill set, recent projects, and contact information.  
+ My name is Marzena, and I'm an enthusiastic junior Frontend Developer. I love to try new skills, technologies and generally enjoy new experiences. This profile demonstrates my skill set, recent projects, and contact information.  
 
 # Demo
 [See Personal Homepage](https://maram-9.github.io/personal-homepage/)
